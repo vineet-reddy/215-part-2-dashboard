@@ -1,4 +1,4 @@
-"""ClearSkin Dashboard - Simple Dash app connected to Azure OLAP"""
+"""ClearSkin Dashboard: Dash app connected to Azure OLAP"""
 
 from pathlib import Path
 import pandas as pd
