@@ -53,4 +53,6 @@ Includes filters + KPIs + 4 charts.
     ```
 
 ## Screenshots for submission
-- Take screenshots showing filters (date/clinic/channel/specialty/payer) and how charts/KPIs change.
+![alt text](images_for_README/image.png)
+![alt text](images_for_README/image-1.png)
+![alt text](images_for_README/image-2.png)
